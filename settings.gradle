@@ -1,0 +1,3 @@
+include ':viewext'
+include ':app'
+rootProject.name = "ViewExt"
